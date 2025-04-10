@@ -1,2 +1,8 @@
 This is my sample file
 adding some text
+
+
+New line
+training diff
+
+GUI extension test

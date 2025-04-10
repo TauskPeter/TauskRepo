@@ -1,2 +1,5 @@
 # TauskRepo
-My personal repository
+My personal repository GIT!
+
+view updates via GUI
+
