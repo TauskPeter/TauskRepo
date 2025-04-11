@@ -6,3 +6,5 @@ New line
 training diff
 
 GUI extension test
+
+hello
